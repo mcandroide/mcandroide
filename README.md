@@ -24,21 +24,21 @@ Hola soy Andrea, desarrollador web de 22 años, en la Ciudad de México.
  
 ## 🚀 Proyectos Destacados
 
-1. **CRUD REACT**
+1. **Seguimiento Pacientes Veterinaria**
    - Descripción: Este proyecto es una web para dar seguimiento a pacientes en veterinaria.
-   - Enlace: [CRUD REACT](https://dates-pet.netlify.app/)
+   - Enlace: [Html, React, Tailwind](https://dates-pet.netlify.app/)
 
 2. **Forest Architecture**
    - Descripción: Sitio web para mostrar casas en venta en el bosque.
-   - Enlace: [Forest Architecture](https://ejemplo.com/proyecto-b](https://bosquearchitecture.netlify.app)
+   - Enlace: [Html, Css](https://bosquearchitecture.netlify.app)
 
 3. **Nucleus**
    - Descripción: Sitio web, tarjeta de credito.
-   - Enlace: [Nucleus](https://sitenucleo.netlify.app/)
+   - Enlace: [Html, Css, Js](https://sitenucleo.netlify.app/)
 
 4. **Rock & EDM Festival**
    - Descripción: Sitio web, festival de música.
-   - Enlace: [Rock & EDM Festival](https://festivalmusiic.netlify.app/)
+   - Enlace: [Html, Gulp, Sass](https://festivalmusiic.netlify.app/)
 
 ## Contact
 
