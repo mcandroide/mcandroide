@@ -42,9 +42,19 @@ Hola soy Andrea, desarrollador web de 22 años, en la Ciudad de México.
    - Descripción: Sitio web, festival de música.
    - Enlace: [Html, Gulp, Sass](https://festivalmusiic.netlify.app/)
 
+5. **Landing Page DISINET**
+   - Descripción: Landing page para la empresa disinet para venta y promoción de sus productos.
+   - Enlace: [Html, CSS](https://marketconnect.netlify.app/)
+
+5. **Mi primer página web :)**
+   - Descripción: Aprendiendo los principios básicos.
+   - Enlace: [Html, CSS](https://primerpagandrea.netlify.app/)
+
+
+
 ## Contact
 
-<a href="www.linkedin.com/in/andreamc27" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/andreamc27](https://www.linkedin.com/in/andreamc27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
