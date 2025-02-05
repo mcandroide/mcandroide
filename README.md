@@ -1,18 +1,14 @@
  
 
-# <br>Andrea Morales<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+# <br>Andrea Morales Carbajal<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 ![Brazil Team Support Women's Football Banner in Yellow Light Green Green Bold Bright and Grunge Style](https://github.com/mcandroide/mcandroide/assets/94722017/f3b3f697-e01b-4e4e-9602-c2ae5c5f4962)
 
-Hola soy Andrea, desarrollador web de 22 años, en la Ciudad de México.
+Hola soy Andrea, ingeniera en desarrollo y gestión de software web de 23 años, en la Ciudad de México.
 
-- 🦔 Licenciatura en Ingeniería en desarrollo y gestión de software.
+- 🦔 23 años
 
 - 👩🏻‍💻 Trabajando para crecer profesionalmente.
-
-- 👥 Colaborando en Gandy
-
-+ mucho más ;)
 
 ## Tecnologías
 
@@ -20,8 +16,15 @@ Hola soy Andrea, desarrollador web de 22 años, en la Ciudad de México.
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
  </p>
  
 ## 🚀 Proyectos Destacados
