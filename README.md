@@ -1,18 +1,17 @@
  
 
-# <br>Andrea Morales<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+# <br>Hola soy Andrea, Ingeniera en desarrollo y gestión de software.<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 
 ![ANDREAGIFT](https://github.com/user-attachments/assets/a1bfde05-6825-49a6-b55d-3367171b9b2b)
 
+-Ciudad de México
 
-Hola soy Andrea, Ingeniera en desarrollo y gestión de software.
+-Front-end
 
--Ciudad de México.
--Front-end developer.
--23 años.
+-23 años
 
-## 🚀 Here there are some of my personals projects!
+## 🚀 Here there are some of my personal projects!
 
 1. **Pacientes Veterinaria**
    - Descripción: Este proyecto es una web para dar seguimiento a pacientes en veterinaria.
