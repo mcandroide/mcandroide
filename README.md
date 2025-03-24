@@ -5,12 +5,6 @@
 
 ![ANDREAGIFT](https://github.com/user-attachments/assets/a1bfde05-6825-49a6-b55d-3367171b9b2b)
 
--Ciudad de México
-
--Front-end
-
--23 años
-
 ## 🚀 Here there are some of my personal projects!
 
 1. **Pacientes Veterinaria**
