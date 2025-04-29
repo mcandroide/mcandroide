@@ -1,9 +1,5 @@
- 
+![Recurso 1](https://github.com/user-attachments/assets/705bc5dc-461b-43ac-a83e-5457d2069d8a)
 
-# <br>Hola soy Andrea, Ingeniera en desarrollo y gestión de software.<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-
-
-![ANDREAGIFT](https://github.com/user-attachments/assets/a1bfde05-6825-49a6-b55d-3367171b9b2b)
 
 ## 🚀 Here there are some of my personal projects!
 
@@ -16,22 +12,20 @@
    - Enlace: [Html, Css](https://bosquearchitecture.netlify.app)
 
 3. **Nucleus**
-   - Descripción: Sitio web, tarjeta de credito.
+   - Descripción: Sitio web, para dar a conocer una tarjeta de credito.
    - Enlace: [Html, Css, Js](https://sitenucleo.netlify.app/)
 
 4. **Rock & EDM Festival**
-   - Descripción: Sitio web, festival de música.
+   - Descripción: Sitio web, festival de música integrando javascript.
    - Enlace: [Html, Gulp, Sass](https://festivalmusiic.netlify.app/)
 
 5. **Landing Page DISINET**
-   - Descripción: Landing page para la empresa disinet para venta y promoción de sus productos.
+   - Descripción: Landing page empresa DISINET para venta y promoción de sus productos.
    - Enlace: [Html, CSS, Strapi](https://marketconnect.netlify.app/)
 
 5. **Mi primer página web :)**
-   - Descripción: Aprendiendo los principios básicos.
+   - Descripción: Aprendiendo los principios básicos de html y css.
    - Enlace: [Html, CSS](https://primerpagandrea.netlify.app/)
-
-
 
 ## KEEP IN TOUCH 
 
