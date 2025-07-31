@@ -1,4 +1,5 @@
-![Recurso 1](https://github.com/user-attachments/assets/705bc5dc-461b-43ac-a83e-5457d2069d8a)
+
+<img width="6912" height="3456" alt="aaa" src="https://github.com/user-attachments/assets/e24abc59-91dc-44f0-899f-c0d515346354" />
 
 
 ## 🚀 Here there are some of my personal projects!
@@ -32,7 +33,7 @@
 https://www.linkedin.com/in/andreamc27?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
-<a href="https://www.linkedin.com/in/andreamc27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[<a href="https://www.linkedin.com/in/andreamc27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/andreamc27/)
 
 
 
