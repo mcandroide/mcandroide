@@ -1,5 +1,4 @@
 
-<img width="6912" height="3456" alt="aaa" src="https://github.com/user-attachments/assets/e24abc59-91dc-44f0-899f-c0d515346354" />
 
 
 ## 🚀 Here there are some of my personal projects!
