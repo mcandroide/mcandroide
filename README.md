@@ -1,9 +1,9 @@
 
 
 
-## 🚀 Here there are some of my personal projects!
+## Mis proyectos personales!
 
-1. **Pacientes Veterinaria**
+1. **PETS**
 Este proyecto es una web para dar seguimiento a pacientes en veterinaria.
    - Enlace: [Html, React, Tailwind](https://dates-pet.netlify.app/)
 
