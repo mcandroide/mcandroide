@@ -11,10 +11,6 @@
 
 </p>
 
-<h3 align="center">👩‍💻 Andrea | Full Stack Developer</h3>
-<p align="center">
-✨ "Code. Learn. Build. Repeat." ✨
-</p>
 
 
 Proyectos:
