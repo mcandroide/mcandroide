@@ -39,6 +39,28 @@
 
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://github.com/user-attachments/assets/4ad65ee1-454d-4974-9e01-e48fa186651b" width="100%" />
+      <h3>PETS 🐾</h3>
+      <p>React + Tailwind</p>
+      <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
+    </td>
+
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://github.com/user-attachments/assets/4ad65ee1-454d-4974-9e01-e48fa186651b" width="100%" />
+      <h3>PETS 🐾</h3>
+      <p>React + Tailwind</p>
+      <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
+    </td>
+
+  </tr>
+</table>
 
 </div>
 
@@ -61,7 +83,6 @@
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+ Thanks for visiting my profile 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
