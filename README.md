@@ -1,13 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header"/>
-
-<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h1 align="center">Hi, I'm Andrea</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+Lover;React+%7C+Tailwind;Building+cool+web+stuff" />
 </p>
 
 <p align="center">
-  💻 Frontend Developer • 🎨 UI Enthusiast • ⚡ Always learning
+  Frontend Developer • Making code •  Always learning
 </p>
 
 <p align="center">
@@ -21,7 +19,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,git,github,.net" />
 </p>
 
 ---
