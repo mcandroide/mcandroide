@@ -16,15 +16,15 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,git,github,.net" />
+  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,git,c#,.net" />
 </p>
 
 ---
 
-## 🌟 Projects
+## Projects
 
 <div align="center">
 
@@ -37,41 +37,12 @@
       <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
     </td>
 
-```
-<td align="center" width="300">
-  <img src="https://github.com/user-attachments/assets/b3eb84df-f3ea-4a3e-af2f-b02f2a540322" width="100%" />
-  <h3>Forest Architecture 🌿</h3>
-  <p>HTML + CSS</p>
-  <a href="https://bosquearchitecture.netlify.app">🔗 Live Demo</a>
-</td>
-
-<td align="center" width="300">
-  <img src="https://github.com/user-attachments/assets/2ec6c2b7-9d4e-455a-9f0e-aec66a8ce577" width="100%" />
-  <h3>Nucleus ⚡</h3>
-  <p>HTML + CSS + JS</p>
-  <a href="https://sitenucleo.netlify.app/">🔗 Live Demo</a>
-</td>
-```
-
   </tr>
 </table>
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcandroide&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcandroide&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcandroide&theme=tokyo-night" />
-</p>
-
----
 
 ## 🧠 About Me
 
