@@ -12,60 +12,21 @@
 
 ---
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,git,c#,.net" />
+  <img src="https://github.com/user-attachments/assets/03e95f9a-dcb9-45a1-8e55-c825a11e4d86" height="170" />
+  <img src="https://github.com/user-attachments/assets/53303cc5-fe35-49e7-8e46-cfb303beb787" height="170" />
+  <img src="https://github.com/user-attachments/assets/bfc82186-3a35-4855-ba97-1d61161aa6da" height="170" />
 </p>
 
----
+<h2 align="center">🚀 Projects</h2>
 
-## Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/4ad65ee1-454d-4974-9e01-e48fa186651b" width="100%" />
-      <h3>PETS 🐾</h3>
-      <p>React + Tailwind</p>
+<p align="center">
       <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
-    </td>
-
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img width="1080" height="1920" alt="1" src="https://github.com/user-attachments/assets/03e95f9a-dcb9-45a1-8e55-c825a11e4d86" />
-      <img width="1080" height="1920" alt="3" src="https://github.com/user-attachments/assets/53303cc5-fe35-49e7-8e46-cfb303beb787" />
-<img width="1080" height="1920" alt="2" src="https://github.com/user-attachments/assets/bfc82186-3a35-4855-ba97-1d61161aa6da" />
-
-      <h3>PETS 🐾</h3>
-      <p>React + Tailwind</p>
+    <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
       <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
-    </td>
-
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/4ad65ee1-454d-4974-9e01-e48fa186651b" width="100%" />
-      <h3>PETS 🐾</h3>
-      <p>React + Tailwind</p>
-      <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
-    </td>
-
-  </tr>
-</table>
-
-</div>
-
-
-
----
+</p>
 
 ## 👀 Profile Views
 
