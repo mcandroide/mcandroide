@@ -14,9 +14,9 @@
 
 <p align="center">
       <a href="https://dates-pet.netlify.app/">Pacientes veterinaria </a>
-      <a href="https://dates-pet.netlify.app/">Nucleus</a>
-      <a href="https://dates-pet.netlify.app/](https://festivalmusiic.netlify.app/">Festival Music / HTML, CSS , JS</a>
-      <a href="https://app.netlify.com/projects/primerpagandrea/overview">Primera Página / HTML, CSS</a>
+      <a href="https://sitenucleo.netlify.app/">Nucleus</a>
+      <a href="https://festivalmusiic.netlify.app/">Festival Music / HTML, CSS , JS</a>
+      <a href="https://primerpagandrea.netlify.app/">Primera Página / HTML, CSS</a>
       <a href="https://bosquearchitecture.netlify.app/">Arquitectura</a>
 </p>
 
