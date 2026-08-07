@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+Lover;React+%7C+Tailwind;Building+cool+web+stuff" />
-</p>
-
-<p align="center">
-  Frontend Developer • Making code •  Always learning
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Focused+on+building+modern+UI;Self Learning;Building+cool+web+stuff" />
 </p>
 
 <p align="center">
@@ -42,7 +38,10 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="https://github.com/user-attachments/assets/4ad65ee1-454d-4974-9e01-e48fa186651b" width="100%" />
+      <img width="1080" height="1920" alt="1" src="https://github.com/user-attachments/assets/03e95f9a-dcb9-45a1-8e55-c825a11e4d86" />
+      <img width="1080" height="1920" alt="3" src="https://github.com/user-attachments/assets/53303cc5-fe35-49e7-8e46-cfb303beb787" />
+<img width="1080" height="1920" alt="2" src="https://github.com/user-attachments/assets/bfc82186-3a35-4855-ba97-1d61161aa6da" />
+
       <h3>PETS 🐾</h3>
       <p>React + Tailwind</p>
       <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
@@ -65,12 +64,6 @@
 </div>
 
 
-
-## 🧠 About Me
-
-* 💡 Focused on building modern UI
-* 🎯 Interested in React ecosystems
-* 🚀 Constantly improving and learning
 
 ---
 
