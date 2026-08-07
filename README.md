@@ -18,23 +18,22 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-      <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
-    <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
-      <a href="https://dates-pet.netlify.app/">🔗 Live Demo</a>
+      <a href="https://dates-pet.netlify.app/">Pacientes veterinaria </a>
+      <a href="https://dates-pet.netlify.app/">Nucleus</a>
+      <a href="https://dates-pet.netlify.app/](https://festivalmusiic.netlify.app/">Festival Music / HTML, CSS , JS</a>
+      <a href="https://app.netlify.com/projects/primerpagandrea/overview">Primera Página / HTML, CSS</a>
+      <a href="https://bosquearchitecture.netlify.app/">Arquitectura</a>
 </p>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreamc27/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AndreaMC-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-AndreaMC-0077B5?style=for-thebadge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mcandroide&style=for-the-badge&color=blue"/>
 </p>
-
-
----
 
 <p align="center">
  Thanks for visiting my profile 
