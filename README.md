@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 
-<img alt="White and Black Minimalist Phone Mockup Instagram Story (1)" src="https://github.com/user-attachments/assets/ffd9f3d3-8dc0-4d23-8400-38bc02924d72" width="230" />
-
-
+<img alt="White and Black Minimalist Phone Mockup Instagram Story (1)" src="https://github.com/user-attachments/assets/ffd9f3d3-8dc0-4d23-8400-38bc02924d72" width="230" align="center"/>
 
 <h2 align="center">Some projects</h2>
 
