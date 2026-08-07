@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Andrea</h1>
-<img width="1080" height="1920" alt="White and Black Minimalist Phone Mockup Instagram Story" src="https://github.com/user-attachments/assets/9606879e-3fd2-4741-8742-afb6c38439c8" height="270" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Focused+on+building+modern+UI;Self Learning;Building+cool+web+stuff" height="270"/>
-</p>
-
+<img alt="White and Black Minimalist Phone Mockup Instagram Story" src="https://github.com/user-attachments/assets/9606879e-3fd2-4741-8742-afb6c38439c8" height="270" />
 ---
 
 <h2 align="center">Some projects</h2>
