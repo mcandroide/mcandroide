@@ -2,7 +2,7 @@
 <img width="1080" height="1920" alt="White and Black Minimalist Phone Mockup Instagram Story" src="https://github.com/user-attachments/assets/9606879e-3fd2-4741-8742-afb6c38439c8" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Focused+on+building+modern+UI;Self Learning;Building+cool+web+stuff" height="370"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Focused+on+building+modern+UI;Self Learning;Building+cool+web+stuff" height="270"/>
 </p>
 
 ---
@@ -10,9 +10,9 @@
 <h2 align="center">Some projects</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03e95f9a-dcb9-45a1-8e55-c825a11e4d86" height="170" />
-  <img src="https://github.com/user-attachments/assets/bfc82186-3a35-4855-ba97-1d61161aa6da" height="170" />
-  <img src="https://github.com/user-attachments/assets/53303cc5-fe35-49e7-8e46-cfb303beb787" height="170" />
+  <img src="https://github.com/user-attachments/assets/03e95f9a-dcb9-45a1-8e55-c825a11e4d86" height="270" />
+  <img src="https://github.com/user-attachments/assets/bfc82186-3a35-4855-ba97-1d61161aa6da" height="270" />
+  <img src="https://github.com/user-attachments/assets/53303cc5-fe35-49e7-8e46-cfb303beb787" height="270" />
 </p>
 
 <h2 align="center">Projects</h2>
